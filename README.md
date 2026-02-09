@@ -6,13 +6,15 @@ Full-Stack Developer | JavaScript, TypeScript, Python
 
 **Languages:** JavaScript, TypeScript, Python  
 **Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express  
-**Database:** MongoDB, PostgreSQL (Prisma)  
+**Backend:** Node.js, Express, FastAPI  
+**Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite  
 **Real-time:** WebSocket, Socket.io  
+**Automation:** Playwright, web scraping  
 **DevOps:** Docker, CI/CD  
 **Auth:** JWT, NextAuth  
 **Testing:** Jest  
-**API:** REST, Swagger
+**API:** REST, Swagger  
+**Other:** Astropy, npm publishing
 
 ## Featured Projects
 
@@ -20,7 +22,11 @@ Full-Stack Developer | JavaScript, TypeScript, Python
 |---------|-------------|-------|
 | [SmartShopHub](https://github.com/Francescodib/SmartShopHub) | E-commerce platform with AI-powered product recommendations (Collaborative Filtering) | React, Node.js, MongoDB, Docker |
 | [NovaCart](https://github.com/Francescodib/novacart) | Real-time notification system with WebSocket architecture and multi-tab sync | Next.js 15, Socket.io, TypeScript, PostgreSQL |
+| [coordinate-sanitizer](https://github.com/Francescodib/coordinate-sanitizer) | npm package for parsing and sanitizing astronomical coordinates across multiple formats | JavaScript, npm, zero dependencies |
 | [ZenithStore DevOps](https://github.com/Francescodib/zenithstore-devops) | E-commerce CI/CD platform with zero-downtime deployment | JavaScript |
+| AstroAssistant | Deep-sky object planning assistant with visibility calculations, FOV calculator, and LLM integration | Python, FastAPI, PostgreSQL, Next.js, Astropy |
+| FOV Viewer | Reusable React component library for telescope/camera field of view visualization | React, TypeScript, Aladin Lite, Recharts |
+| SPA Scraper Agent | Automated browser agent for data extraction from JavaScript-heavy single page applications | Python, Playwright, headless browser |
 
 ## GitHub Stats
 
