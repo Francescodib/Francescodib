@@ -5,7 +5,9 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 ## Tech Stack
 
 <p align="left">
+<a href="#">
   <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,mongodb,postgres,sqlite,docker,githubactions,jest,tailwind,threejs" alt="My Skills" />
+  </a>
 </p>
 
 
