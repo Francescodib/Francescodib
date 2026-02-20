@@ -4,6 +4,11 @@ Full-Stack Developer | JavaScript, TypeScript, Python
 
 ## Tech Stack
 
+<p align="left">
+  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,mongodb,postgres,sqlite,docker,githubactions,jest,tailwind,threejs" />
+</p>
+
+
 **Languages:** JavaScript, TypeScript, Python  
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express, FastAPI  
@@ -16,24 +21,19 @@ Full-Stack Developer | JavaScript, TypeScript, Python
 **API:** REST, Swagger  
 **Other:** Astropy, npm publishing
 
-## Featured Projects
+**Core Competencies:** `WebSocket/Socket.io` • `Playwright (Web Scraping)` • `Prisma/Sequelize` • `JWT/NextAuth` • `Astropy` • `npm publishing`
+
+---
+
+### Featured Projects
 
 | Project | Description | Stack |
-|---------|-------------|-------|
-| [SmartShopHub](https://github.com/Francescodib/SmartShopHub) | E-commerce platform with AI-powered product recommendations (Collaborative Filtering) | React, Node.js, MongoDB, Docker |
-| [NovaCart](https://github.com/Francescodib/novacart) | Real-time notification system with WebSocket architecture and multi-tab sync | Next.js 15, Socket.io, TypeScript, PostgreSQL |
-| [coordinate-sanitizer](https://github.com/Francescodib/coordinate-sanitizer) | npm package for parsing and sanitizing astronomical coordinates across multiple formats | JavaScript, npm, zero dependencies |
-| [ZenithStore DevOps](https://github.com/Francescodib/zenithstore-devops) | E-commerce CI/CD platform with zero-downtime deployment | JavaScript |
-| AstroAssistant | Deep-sky object planning assistant with visibility calculations, FOV calculator, and LLM integration | Python, FastAPI, PostgreSQL, Next.js, Astropy |
-| FOV Viewer | Reusable React component library for telescope/camera field of view visualization | React, TypeScript, Aladin Lite, Recharts |
-| SPA Scraper Agent | Automated browser agent for data extraction from JavaScript-heavy single page applications | Python, Playwright, headless browser |
-
-## GitHub Stats
-
-<p>
-  <img src="https://github-readme-stats.vercel.app/api?username=Francescodib&show_icons=true&theme=default&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Francescodib&layout=compact&hide_border=true" alt="Top Languages" height="170" />
-</p>
+|:---------|:------------|:------|
+| [**Game Of Life 3D**](https://github.com/Francescodib/Game_Of_Life_3D) | A stunning 3D implementation of Conway's Game of Life. | TypeScript, Three.js / R3F |
+| [**SafeConnect Platform**](https://github.com/Francescodib/safeconnect-platform) | A platform focused on secure connectivity and protected device management. | React, Node.js, Security Utils |
+| [**NovaCart**](https://github.com/Francescodib/novacart) | Real-time notification system with multi-tab sync and WebSocket architecture. | Next.js 15, Socket.io, TS |
+| [**coordinate-sanitizer**](https://github.com/Francescodib/coordinate-sanitizer) | Lightweight npm package for astronomical coordinate sanitization. | JavaScript <br>[![npm version](https://img.shields.io/npm/v/coordinate-sanitizer?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/coordinate-sanitizer) |
+| [**SmartShopHub**](https://github.com/Francescodib/SmartShopHub) | E-commerce with AI-driven product recommendations (Collaborative Filtering). | React, Node.js, MongoDB |
 
 ## Links
 
