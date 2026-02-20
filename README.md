@@ -1,6 +1,6 @@
 # Francesco di Biase
 
-Full-Stack Developer | JavaScript, TypeScript, Python
+Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Computer Engineer
 
 ## Tech Stack
 
