@@ -4,9 +4,7 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 
 ## Tech Stack
 
-<p align="left">
-  <img src="https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,mongodb,postgres,sqlite,docker,githubactions,jest,tailwind,threejs" />
-</p>
+![My Skills](https://skillicons.dev/icons?i=js,ts,py,react,nextjs,nodejs,express,fastapi,mongodb,postgres,sqlite,docker,githubactions,jest,tailwind,threejs)
 
 
 **Languages:** JavaScript, TypeScript, Python  
