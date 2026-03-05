@@ -11,18 +11,18 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 </p>
 
 
-**Languages:** JavaScript, TypeScript, Python
-**Frontend:** React, Next.js, Tailwind CSS
-**Backend:** Node.js, Express, FastAPI
-**Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite
-**Real-time:** WebSocket, Socket.io, SSE (Server-Sent Events)
-**Automation:** Playwright, web scraping
-**DevOps:** Docker, CI/CD
-**Auth:** JWT, NextAuth
-**Testing:** Jest, pytest
-**API:** REST, Swagger
-**AI/LLM:** Multi-agent pipelines, LiteLLM (Claude, GPT, Gemini, Ollama)
-**Other:** Astropy, npm publishing, SQLAlchemy/Alembic
+- **Languages:** JavaScript, TypeScript, Python
+- **Frontend:** React, Next.js, Tailwind CSS
+- **Backend:** Node.js, Express, FastAPI
+- **Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite
+- **Real-time:** WebSocket, Socket.io, SSE (Server-Sent Events)
+- **Automation:** Playwright, web scraping
+- **DevOps:** Docker, CI/CD
+- **Auth:** JWT, NextAuth
+- **Testing:** Jest, pytest
+- **API:** REST, Swagger
+- **AI/LLM:** Multi-agent pipelines, LiteLLM (Claude, GPT, Gemini, Ollama)
+- **Other:** Astropy, npm publishing, SQLAlchemy/Alembic
 
 **Core Competencies:** `WebSocket/Socket.io` • `Playwright (Web Scraping)` • `Prisma/Sequelize` • `JWT/NextAuth` • `Astropy` • `npm publishing` • `Multi-agent AI` • `LiteLLM`
 
