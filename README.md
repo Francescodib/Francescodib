@@ -15,15 +15,16 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 **Frontend:** React, Next.js, Tailwind CSS  
 **Backend:** Node.js, Express, FastAPI  
 **Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite  
-**Real-time:** WebSocket, Socket.io  
-**Automation:** Playwright, web scraping  
-**DevOps:** Docker, CI/CD  
-**Auth:** JWT, NextAuth  
-**Testing:** Jest  
-**API:** REST, Swagger  
-**Other:** Astropy, npm publishing
+**Real-time:** WebSocket, Socket.io, SSE (Server-Sent Events)
+**Automation:** Playwright, web scraping
+**DevOps:** Docker, CI/CD
+**Auth:** JWT, NextAuth
+**Testing:** Jest, pytest
+**API:** REST, Swagger
+**AI/LLM:** Multi-agent pipelines, LiteLLM (Claude, GPT, Gemini, Ollama)
+**Other:** Astropy, npm publishing, SQLAlchemy/Alembic
 
-**Core Competencies:** `WebSocket/Socket.io` • `Playwright (Web Scraping)` • `Prisma/Sequelize` • `JWT/NextAuth` • `Astropy` • `npm publishing`
+**Core Competencies:** `WebSocket/Socket.io` • `Playwright (Web Scraping)` • `Prisma/Sequelize` • `JWT/NextAuth` • `Astropy` • `npm publishing` • `Multi-agent AI` • `LiteLLM`
 
 ---
 
@@ -36,6 +37,7 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 | [**NovaCart**](https://github.com/Francescodib/novacart) | Real-time notification system with multi-tab sync and WebSocket architecture. | Next.js 15, Socket.io, TS |
 | [**coordinate-sanitizer**](https://github.com/Francescodib/coordinate-sanitizer) | Lightweight npm package for astronomical coordinate sanitization. | JavaScript <br>[![npm version](https://img.shields.io/npm/v/coordinate-sanitizer?color=cb3837&style=flat-square&logo=npm)](https://www.npmjs.com/package/coordinate-sanitizer) |
 | [**SmartShopHub**](https://github.com/Francescodib/SmartShopHub) | E-commerce with AI-driven product recommendations (Collaborative Filtering). | React, Node.js, MongoDB |
+| [**FakeNews Tribunal**](https://github.com/Francescodib/FakeNews-Tribunal) | Autonomous fact-checking system with a multi-agent AI debate pipeline (Researcher, Devil's Advocate, Judge). Real-time streaming via SSE, PDF export, source credibility scoring. | Python, FastAPI, Next.js 16, PostgreSQL, LiteLLM, Docker |
 
 ## Links
 
