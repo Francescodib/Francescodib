@@ -11,10 +11,10 @@ Senior Full-Stack Developer & AI Integrator | Real-Time Web Architectures | Comp
 </p>
 
 
-**Languages:** JavaScript, TypeScript, Python  
-**Frontend:** React, Next.js, Tailwind CSS  
-**Backend:** Node.js, Express, FastAPI  
-**Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite  
+**Languages:** JavaScript, TypeScript, Python
+**Frontend:** React, Next.js, Tailwind CSS
+**Backend:** Node.js, Express, FastAPI
+**Database:** MongoDB, PostgreSQL (Prisma, Sequelize), SQLite
 **Real-time:** WebSocket, Socket.io, SSE (Server-Sent Events)
 **Automation:** Playwright, web scraping
 **DevOps:** Docker, CI/CD
