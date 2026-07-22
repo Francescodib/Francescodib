@@ -40,5 +40,5 @@ Currently leading development at an AI-native startup. Most of what's here is bu
 
 ## Course Projects
 
-Built during a 400-hour full-stack certification programme (EQF 6):
+Built during a 400-hour full-stack certification programme (EQF 5):
 [NovaCart](https://github.com/Francescodib/novacart) · [SmartShopHub](https://github.com/Francescodib/SmartShopHub) · [SafeConnect](https://github.com/Francescodib/safeconnect-platform)
